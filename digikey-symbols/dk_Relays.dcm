@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UD2-5SNU
+D RELAY GEN PURPOSE DPDT 1A 5VDC
+K RELAY DPDT 1A 5VDC
+F https://api.kemet.com/component-edge/download/datasheet/UD2-5SNU.pdf
+$ENDCMP
+#
+#End Doc Library
