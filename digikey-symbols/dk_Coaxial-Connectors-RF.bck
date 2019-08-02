@@ -36,6 +36,12 @@ K A97594-ND ZDC, Greenpar
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English
 $ENDCMP
 #
+$CMP CBBJR79A
+D CONN TRB JACK R/A PCB
+K  TRB, Triaxial Connector Jack, Female Socket, Right Angle Solder
+F https://www.belfuse.com/resources/Trompeter/Drawings/dr-CBBJR79A.pdf
+$ENDCMP
+#
 $CMP CBJR157
 D CONN TTM JACK R/A PCB
 K  TRS, Triaxial Connector Jack, Female Socket, Right Angle Solder
