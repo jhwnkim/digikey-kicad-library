@@ -48,6 +48,12 @@ K  TRS, Triaxial Connector Jack, Female Socket, Right Angle Solder
 F https://media.digikey.com/pdf/Data%20Sheets/Cinch%20PDFs/CBJR(3)157_Series_Ds.pdf
 $ENDCMP
 #
+$CMP CON-MMCX-SMD
+D CONN MMCX RCPT STR 50 OHM SMD
+K CON-MMCX-SMD
+F https://www.molex.com/pdm_docs/sd/734152063_sd.pdf
+$ENDCMP
+#
 $CMP CONSMA001-SMD-G
 D CONN SMA RCPT STR 50 OHM SMD
 K CONSMA001-SMD-G-ND
