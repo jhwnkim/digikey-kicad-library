@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_Rotary1x4
+D 1 rotary switches with 4 positions
+K rotary switch
+F https://www.digikey.com/product-detail/en/220AMA04R/CT3078-1-ND/5019520/?itemSeq=326502110
+$ENDCMP
+#
+#End Doc Library
