@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0473080001_Obsolete
+D CONN SIM CARD PUSH-PULL R/A SMD
+K WM6699CT-ND 47308
+F https://www.molex.com/pdm_docs/sd/473080001_sd.pdf
+$ENDCMP
+#
+$CMP 0787231001
+D CONN MICRO SIM CARD PUSH-PULL
+K WM9259CT-ND 78723
+F https://www.molex.com/pdm_docs/sd/787231001_sd.pdf
+$ENDCMP
+#
 $CMP 2908-05WB-MG
 D CONN MICRO SD CARD PUSH-PUSH R/A
 K 3M5607CT-ND 2900
@@ -12,16 +24,9 @@ K WM12731CT-ND 504520
 F https://www.molex.com/pdm_docs/sd/5045200691_sd.pdf
 $ENDCMP
 #
-$CMP 0473080001_Obsolete
-D CONN SIM CARD PUSH-PULL R/A SMD
-K WM6699CT-ND 47308
-F https://www.molex.com/pdm_docs/sd/473080001_sd.pdf
-$ENDCMP
-#
-$CMP 0787231001
-D CONN MICRO SIM CARD PUSH-PULL
-K WM9259CT-ND 78723
-F https://www.molex.com/pdm_docs/sd/787231001_sd.pdf
+$CMP ESW-113-33-L-D
+D CONN SOCKET 26POS 0.1 GOLD PCB
+F https://www.digikey.com/en/products/detail/ESW-113-33-L-D/ESW-113-33-L-D-ND/7207457?itemSeq=349884053
 $ENDCMP
 #
 #End Doc Library

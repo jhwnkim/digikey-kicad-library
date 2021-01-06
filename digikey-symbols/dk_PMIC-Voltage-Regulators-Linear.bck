@@ -12,12 +12,6 @@ K AZ1117CH-3.3TRG1DICT-ND AZ1117C
 F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
-$CMP KA78M05_TO252
-D Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)
-K Voltage Regulator 500mA Positive
-F http://www.fairchildsemi.com/ds/LM/LM78M05.pdf
-$ENDCMP
-#
 $CMP L4931ABD33-TR
 D IC REG LINEAR 3.3V 250MA 8SO
 K 497-1155-1-ND
@@ -58,72 +52,6 @@ $CMP LD1117V33
 D IC REG LINEAR 3.3V 800MA TO220AB
 K 497-1491-5-ND
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf
-$ENDCMP
-#
-$CMP LF120_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 12.0V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF15_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 1.5V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF18_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 1.8V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF25_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 2.5V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF33_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 3.3V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF47_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 4.7V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF50_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 5.0V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF60_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 6.0V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF80_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 8.0V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF85_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 8.5V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
-$ENDCMP
-#
-$CMP LF90_TO252
-D Low-drop Voltage Regulator, Io up to 500mA, Fixed Vo 9.0V, TO-252 (DPAK)
-K LDO regulator voltage
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
 $ENDCMP
 #
 $CMP LM1117MPX-3_3_NOPB
@@ -180,30 +108,6 @@ K LM78L05ACZNS/NOPB-ND
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm78l
 $ENDCMP
 #
-$CMP LM78M05_TO252
-D Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)
-K Voltage Regulator 500mA Positive
-F http://www.fairchildsemi.com/ds/LM/LM78M05.pdf
-$ENDCMP
-#
-$CMP LP2950-3.0_TO252
-D Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 3.0V, TO-252
-K Micropower Voltage Regulator 100mA Positive
-F http://www.ti.com/lit/ds/symlink/lp2950-n.pdf
-$ENDCMP
-#
-$CMP LP2950-3.3_TO252
-D Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 3.3V, TO-252
-K Micropower Voltage Regulator 100mA Positive
-F http://www.ti.com/lit/ds/symlink/lp2950-n.pdf
-$ENDCMP
-#
-$CMP LP2950-5.0_TO252
-D Positive 100mA 30V Linear Micropower Voltage Regulator, Fixed Output 5.0V, TO-252
-K Micropower Voltage Regulator 100mA Positive
-F http://www.ti.com/lit/ds/symlink/lp2950-n.pdf
-$ENDCMP
-#
 $CMP LP2985-33DBVR
 D IC REG LINEAR 3.3V 150MA SOT23-5
 K 296-18476-1-ND
@@ -214,6 +118,12 @@ $CMP LP5907MFX-3_3_NOPB
 D IC REG LINEAR 3.3V 250MA SOT23-5
 K 296-38557-1-ND
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp5907
+$ENDCMP
+#
+$CMP LT1615
+D Linear Voltage Regulator IC  1 Output  400mA DPAK-5
+K LDO
+F http://www.onsemi.com/pub/Collateral/NCV4276C-D.PDF
 $ENDCMP
 #
 $CMP LT1761ES5-3_3_TRMPBF
@@ -244,12 +154,6 @@ $CMP MC7805CTG
 D IC REG LINEAR 5V 1A TO220AB
 K MC7805CTGOS-ND
 F http://www.onsemi.com/pub/Collateral/MC7800-D.PDF
-$ENDCMP
-#
-$CMP MC78M05_TO252
-D Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)
-K Voltage Regulator 500mA Positive
-F http://www.fairchildsemi.com/ds/LM/LM78M05.pdf
 $ENDCMP
 #
 $CMP MCP1700-3302E_TO

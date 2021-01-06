@@ -120,6 +120,12 @@ K 296-38557-1-ND
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp5907
 $ENDCMP
 #
+$CMP LT1615
+D Linear Voltage Regulator IC  1 Output  400mA DPAK-5
+K LDO
+F http://www.onsemi.com/pub/Collateral/NCV4276C-D.PDF
+$ENDCMP
+#
 $CMP LT1761ES5-3_3_TRMPBF
 D IC REG LIN 3.3V 100MA TSOT23-5
 K LT1761ES5-3.3#TRMPBFCT-ND
